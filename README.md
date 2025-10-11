@@ -1,20 +1,21 @@
 # 📚 Library Management System (Java)
 
+**Development Timeline:** August 1 – September 1, 2025
+
 This is a simple **console-based Library Management System** written in Java.  
-It lets users add books, borrow them, return them, and search through the collection.  
-I built this project to practice basic Java, arrays, loops, and simple object-oriented programming.
+It allows users to add books, borrow them, return them, and search through the library collection.  
+I created this project as a personal exercise to practice **arrays, loops, and object-oriented programming** in Java.
 
 ---
 
 ## 🔧 Features
 
-- **Add Books** – Enter book title, author, category, and number of copies.  
-- **View All Books** – See every book in the library with how many copies are available.  
-- **Borrow Books** – Borrow a book only if copies are available.  
+- **Add Books** – Add a new book with title, author, category, and number of copies.  
+- **View All Books** – See a list of all books in the library and how many copies are available.  
+- **Borrow Books** – Borrow a book if copies are available.  
 - **Return Books** – Return a borrowed book and increase the available count.  
-- **Search Books** – Search by title, author, or category.
+- **Search Books** – Search for books by title, author, or category.
 
-Everything works using basic Java — no files, no databases, no advanced features.  
-It’s simple, clean, and easy to understand.
+This project uses only **basic Java features**, so it’s simple and easy to understand.
 
 ---
