@@ -2,10 +2,9 @@
 
 **Development Timeline:** August 1 – September 1, 2025
 
-This is a simple **console-based Library Management System** written in Java.  
-It allows users to add books, borrow them, return them, and search through the library collection.  
-I created this project as a personal exercise to practice **arrays, loops, and object-oriented programming** in Java.
-
+This is a basic Java library management system that runs on a console.
+ Users can search the library's collection, add books, borrow books, and return them.
+ I made this project as a personal exercise to get more familiar with Java object-oriented programming, loops, and arrays.
 ---
 
 ## 🔧 Features
